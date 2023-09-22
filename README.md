@@ -7,5 +7,6 @@
 I'm a software engineer with an affinity for mobile development and seamless UI/UX design. Here, you can find my personal and freelance projects, alongside university assignments which I have deeply invested in.
 
 - 🔎 You can find me on: linkedin.com/in/lisacheawy/
-- 🎨 View my UI/UX portfolio: dribbble.com/theLizc
+- 💻 View my portfolio: behance.net/lisacheawy
+- 🎨 My creative dump: dribbble.com/theLizc
 
